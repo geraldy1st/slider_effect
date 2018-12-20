@@ -11,15 +11,17 @@ var app = new Vue({
         sublineFirstLine: "Honmaru",
         sublineSecondLine: "Japan",
         bgImg: "https://i.imgur.com/iTroATK.png",
-        rectImg: ""
+        rectImg:
+          "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80"
       },
       {
         headlineFirstLine: "Dragon's nest",
         headlineSecondLine: "",
         sublineFirstLine: "Gāo yún",
         sublineSecondLine: "china",
-        bgImg: "https://i.imgur.com/oYUcupH.png"
-        // rectImg: "https://i.imgur.com/d7kwLTv.png"
+        bgImg: "https://i.imgur.com/oYUcupH.png",
+        rectImg:
+          "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80"
       },
       {
         headlineFirstLine: "Howard",
@@ -27,9 +29,9 @@ var app = new Vue({
         sublineFirstLine: "Howard Estate",
         sublineSecondLine: "Japan",
         bgImg:
-          "https://i.jeuxactus.com/datas/jeux/t/e/tekken-7/xl/tekken-7-596e0c54f0d24.jpg"
-        // rectImg:
-        //   "https://i.jeuxactus.com/datas/jeux/t/e/tekken-7/xl/tekken-7-596e0c44073ba.jpg"
+          "https://i.jeuxactus.com/datas/jeux/t/e/tekken-7/xl/tekken-7-596e0c54f0d24.jpg",
+        rectImg:
+          "https://images.unsplash.com/photo-1516541196182-6bdb0516ed27?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80"
       }
     ]
   },
